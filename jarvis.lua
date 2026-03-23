@@ -1,0 +1,1 @@
+shell.run("/jarvis/main.lua")
