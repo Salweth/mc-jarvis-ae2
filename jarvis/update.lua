@@ -1,4 +1,4 @@
-local BASE_URL = "https://github.com/Salweth/mc-jarvis-ae2"
+local BASE_URL = "https://raw.githubusercontent.com/Salweth/mc-jarvis-ae2/main"
 
 local files = {
     {url = BASE_URL .. "/jarvis.lua", path = "/jarvis.lua"},
